@@ -661,10 +661,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: a9114248-a9b8-4dbe-8a80-b677d38c8789
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: Gamelab-prediction
+  organizationId: ijs
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
